@@ -1,0 +1,8 @@
+1. Laravel Debuger 
+2. Laravel Log-viewer 
+3. Laravel Telescope 
+Laravel BlockIPAddress Middleware (IP Address Restectied for user)
+API Request Per miniutes 
+Laravel Database backup for every day by using spatie laravel backup 
+Task Scheduling 
+Laravel Command generate and run the command. 
